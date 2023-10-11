@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 111 $(pwd)
+chmod 755 $(pwd)
