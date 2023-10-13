@@ -1,0 +1,3 @@
+cat iacta
+
+tali -1 | tee -a
