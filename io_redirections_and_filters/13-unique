@@ -1,2 +1,2 @@
 #!/bin/bash
-sdiff list list2 | sort | uniq -u
+cat list list2 | sort | uniq -u
