@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((POWER/DIVIDE))
+echo $((BREATH*BREATH*LOVE+BREATH*LOVE+BREATH))
