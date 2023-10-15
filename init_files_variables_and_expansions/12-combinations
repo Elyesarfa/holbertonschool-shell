@@ -1,2 +1,3 @@
 #!/bin/bash
-echo {a..z}{a..z} | tr -d 'o' | grep -v 'oo' | tr -s ' ' '\n' | sort
+echo {a..z}{a..z}|tr -d 'o'|tr -s ' ' \\n|grep -v 'oo'|sort
+
