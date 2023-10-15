@@ -1,2 +1,3 @@
 #!/bin/bash
-printenv TRUEKNOWLEDGE
+result=$((128 + $TRUEKNOWLEDGE))
+
